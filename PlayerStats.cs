@@ -59,7 +59,7 @@ public class PlayerStats : MonoBehaviour
     {
         float novoXP = PlayerPrefs.GetFloat("xpAtual") + xpAdd * xpMultiplica;
 
-        //metodo xp continuo
+        //metodo xp atualizado
 
         while(novoXP >= PegaProxXP())
         {
