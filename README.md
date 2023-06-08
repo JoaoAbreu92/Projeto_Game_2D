@@ -48,3 +48,5 @@ Se você tiver alguma dúvida ou sugestão sobre este projeto, entre em contato 
 Agradeço o seu interesse e apoio!
 
 
+bash com broplema, adc scripts manualmente.
+
